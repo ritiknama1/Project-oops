@@ -1,0 +1,4 @@
+class and objects 
+class has data and attribute 
+   > attribute are called itself 
+why python is oop ? 
